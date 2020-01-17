@@ -1,7 +1,0 @@
-{
-  "extends": [
-    "config:base",
-    "group:all"
-  ],
-  "ignoreDeps": ["com.google.guava:guava"]  
-}
